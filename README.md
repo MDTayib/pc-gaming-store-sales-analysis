@@ -4,12 +4,6 @@
   <strong>Turning Sales Data into Meaningful Business Insights with Microsoft Excel</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Project-Data%20Analysis-1F6FEB?style=for-the-badge" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Level-Beginner%20Friendly-2EA44F?style=for-the-badge" alt="Beginner Friendly"/>
-</p>
-
 ---
 
 ## 📌 About the Project
