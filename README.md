@@ -37,10 +37,11 @@ The project combines Excel formulas, data analysis, KPI calculations, PivotTable
 
 > Add a screenshot of your finished Excel dashboard below to give visitors an immediate view of your work.
 
-<!-- Replace this placeholder with your actual screenshot after uploading dashboard-preview.png -->
+## Dashboard Preview
 
+![PC Gaming Store Sales Dashboard](dashboard-preview.png)
 <p align="center">
-  <em>PC Gaming Store Sales Dashboard — preview coming soon.</em>
+  <em>PC Gaming Store Sales Dashboard.</em>
 </p>
 
 ## 🔍 Analysis Areas
