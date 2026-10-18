@@ -35,8 +35,6 @@ The project combines Excel formulas, data analysis, KPI calculations, PivotTable
 
 ## 📊 Dashboard Preview
 
-## Dashboard Preview
-
 ![PC Gaming Store Sales Dashboard](dashboard-preview.png)
 <p align="center">
   <em>PC Gaming Store Sales Dashboard.</em>
