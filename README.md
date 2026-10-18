@@ -35,8 +35,6 @@ The project combines Excel formulas, data analysis, KPI calculations, PivotTable
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot of your finished Excel dashboard below to give visitors an immediate view of your work.
-
 ## Dashboard Preview
 
 ![PC Gaming Store Sales Dashboard](dashboard-preview.png)
